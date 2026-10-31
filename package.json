@@ -1,0 +1,12 @@
+{
+  "name": "qorvexa-backend",
+  "version": "1.0.0",
+  "description": "Secure AI Backend for QORVEXA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
